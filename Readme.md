@@ -1,7 +1,7 @@
 # Metric Converter
 Aplikasi ini merupakan aplikasi sederhana yang bertujuan untuk mengkonversi satuan pada suatu metrik.
 
-## Cara Penggunaan[
+## Cara Penggunaan
 https://github.com/AndroLay/Metric_Converter-AndroLay-IONIC/blob/main/assets/Ionic%20App%20-%20Google%20Chrome%202024-09-19%2015-23-55.gif
 
 https://github.com/AndroLay/Metric_Converter-AndroLay-IONIC/blob/main/assets/Ionic%20App%20-%20Google%20Chrome%202024-09-19%2015-24-42.gif
