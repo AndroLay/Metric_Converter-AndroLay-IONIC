@@ -1,0 +1,7 @@
+{
+  "name": "metric_converter-yonathan_sihotang-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
